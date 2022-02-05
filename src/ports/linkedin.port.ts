@@ -1,7 +1,7 @@
-import { IProfile } from 'src/core/domain/interfaces/profile.interface';
+import { Profile } from 'src/core/domain/profile';
 
 interface LinkedinPort {
-  getLikedinProfile(): Promise<IProfile>;
+  getLikedinProfile(params: undefined): Promise<Profile>;
 }
 
 export { LinkedinPort };

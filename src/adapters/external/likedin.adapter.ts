@@ -52,18 +52,24 @@ class LinkedinAdapter implements LinkedinPort {
     return this.request.get(requestUrl);
   }
 
-  getLikedinProfile(): any {
-    const data = this.replaceValues(info);
-    const profile = new Profile(
-      data.profile_pic_url,
-      data.first_name + ' ' + info.last_name,
-      data.occupation,
-      data.headline,
-      data.summary,
-      data.experiences,
-      data.educations,
-      data.certifications,
+  private mountProfile(payload: any): Profile {
+    return new Profile(
+      payload.profile_pic_url,
+      payload.first_name + ' ' + info.last_name,
+      payload.occupation,
+      payload.headline,
+      payload.summary,
+      payload.experiences,
+      payload.educations,
+      payload.certifications,
     );
+  }
+
+  async getLikedinProfile(linkedinQuery: boolean): Promise<Profile> {
+    const response = linkedinQuery
+      ? await this.getDataOnLinkedIn()
+      : this.replaceValues(info);
+    const profile = this.mountProfile(response.data);
     return new Promise((resolve) => resolve(profile));
   }
 }

@@ -8,7 +8,7 @@ export class AppController {
 
   @Get()
   async getHello(): Promise<IProfile> {
-    const profile = await this.linkedinSerive.getLikedinProfile();
+    const profile = await this.linkedinSerive.getLikedinProfile(false);
     return profile;
   }
 }

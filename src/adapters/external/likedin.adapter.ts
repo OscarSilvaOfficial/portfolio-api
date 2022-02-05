@@ -42,8 +42,8 @@ class LinkedinAdapter implements LinkedinPort {
   }
 
   private getDataOnLinkedIn(): any {
-    const nubelaUrl = 'https://nubela.co/proxycurl/api/v2/linkedin';
-    const linkedinProfileUrl = 'https://www.linkedin.com/in/dasilvaoscar';
+    const nubelaUrl = `${process.env.NUBELA_URL}/linkedin`;
+    const linkedinProfileUrl = process.env.MY_LINKEDIN_URL;
     const requestUrl = `${nubelaUrl}?url=${linkedinProfileUrl}`;
     this.request.setHeaders = {
       'Content-Type': 'application/x-www-form-urlencoded',

@@ -7,7 +7,7 @@ export class AppController {
   constructor(readonly linkedinSerive: LinkedinAdapter) {}
 
   @Get()
-  async getHello(): Promise<IProfile> {
+  async getLikedinProfile(): Promise<IProfile> {
     const profile = await this.linkedinSerive.getLikedinProfile(false);
     return profile;
   }

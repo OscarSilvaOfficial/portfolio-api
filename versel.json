@@ -3,7 +3,7 @@
   "name": "portfolio-api",
   "builds": [{
     "src": "dist/main.js",
-    "use": "@now/node"
+    "use": "@vercel/node"
   }],
   "routes": [{
     "src": "/(.*)",

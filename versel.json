@@ -2,7 +2,7 @@
   "version": 2,
   "name": "portfolio-api",
   "builds": [{
-    "src": "src/main.ts",
+    "src": "dist/main.js",
     "use": "@vercel/node"
   }],
   "routes": [{

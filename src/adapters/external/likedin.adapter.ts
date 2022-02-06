@@ -11,8 +11,8 @@ class LinkedinAdapter implements LinkedinPort {
   linkedinProfile: IProfile;
   request: RequestPort;
 
-  constructor() {
-    this.request = new AxiosAdapter();
+  constructor(requestAdapter: RequestPort) {
+    this.request = requestAdapter;
   }
 
   private replaceValues(profile: any): IProfile {

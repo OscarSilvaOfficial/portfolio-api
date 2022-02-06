@@ -1,7 +1,7 @@
 import { connect, model, Schema } from 'mongoose';
-import { INoSQLDB } from 'src/ports/nosql.port';
+import { NoSQLPort } from 'src/ports/nosql.port';
 
-class MongoDB implements INoSQLDB {
+class MongoDB implements NoSQLPort {
   private schema: Schema;
   private dbConnectionString: string;
   private dbName: string;

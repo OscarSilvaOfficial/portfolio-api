@@ -1,10 +1,10 @@
 import { LinkedinPort } from '../../ports/linkedin.port';
-import info from '../../../linkedin.json';
 import { Injectable } from '@nestjs/common';
 import { Profile } from 'src/core/domain/profile';
 import { IProfile } from 'src/core/domain/interfaces/profile.interface';
 import { RequestPort } from 'src/ports/request.port';
 import { AxiosAdapter } from './axios.adapter';
+import info from '../../../linkedin.json';
 
 @Injectable()
 class LinkedinAdapter implements LinkedinPort {
@@ -15,7 +15,7 @@ class LinkedinAdapter implements LinkedinPort {
     this.request = new AxiosAdapter();
   }
 
-  private replaceValues(profile: any): any {
+  private replaceValues(profile: any): IProfile {
     profile.experiences.map((experience: any) => {
       if (
         !(experience.starts_at instanceof Date) &&
@@ -41,7 +41,7 @@ class LinkedinAdapter implements LinkedinPort {
     return profile;
   }
 
-  private getDataOnLinkedIn(): any {
+  private getDataOnLinkedIn(): Promise<IProfile> {
     const nubelaUrl = `${process.env.NUBELA_URL}/linkedin`;
     const linkedinProfileUrl = process.env.MY_LINKEDIN_URL;
     const requestUrl = `${nubelaUrl}?url=${linkedinProfileUrl}`;
@@ -65,10 +65,16 @@ class LinkedinAdapter implements LinkedinPort {
     );
   }
 
+  async defineQuery(linkedinQuery: boolean): Promise<any> {
+    if (linkedinQuery) {
+      const response = await this.getDataOnLinkedIn();
+      return response;
+    }
+    return { data: this.replaceValues(info) };
+  }
+
   async getLikedinProfile(linkedinQuery: boolean): Promise<Profile> {
-    const response = linkedinQuery
-      ? await this.getDataOnLinkedIn()
-      : this.replaceValues(info);
+    const response = await this.defineQuery(linkedinQuery);
     const profile = this.mountProfile(response.data);
     return new Promise((resolve) => resolve(profile));
   }

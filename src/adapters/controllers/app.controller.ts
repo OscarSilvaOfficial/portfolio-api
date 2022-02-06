@@ -10,7 +10,9 @@ import { LoggerPort } from '../../ports/logger.port';
 import { NoSQLPort } from 'src/ports/nosql.port';
 import { MongoDB } from '../infra/database/mongo.adapter';
 import { ProfileSchema } from '../infra/schemas/profile.schema';
+import { ApiTags } from '@nestjs/swagger';
 
+@ApiTags('Likedin Profile API')
 @Controller()
 export class AppController {
   requestAdapter: RequestPort;
@@ -34,5 +36,10 @@ export class AppController {
   async getLikedinProfile(@Req() request: Request): Promise<IProfile> {
     this.logger.debug(request, 'getLikedinProfile');
     return await this.linkedinAdapter.getLikedinProfile(false);
+  }
+
+  @Get('/index')
+  async index() {
+    return { Message: 'Hello World' };
   }
 }

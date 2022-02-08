@@ -9,8 +9,16 @@ class Logger implements LoggerPort {
     this.logger = new NestLogger();
   }
 
+  public generalInfo(message: string, context: string): void {
+    this.logger.log(message, context);
+  }
+
+  public generalError(message: string, context: string, trace: string): void {
+    this.logger.error(message, trace, context);
+  }
+
   public info(request: Request, context: string): void {
-    const message = `Method { ${request.method} } @ Endpoint { ${request.url} }`;
+    const message = `Method { ${request.method} } | Endpoint { ${request.url} }`;
     this.logger.log(message, context);
   }
 

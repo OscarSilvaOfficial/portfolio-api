@@ -5,7 +5,7 @@ import { LinkedinPort } from 'src/ports/linkedin.port';
 import { RequestPort } from 'src/ports/request.port';
 import { LinkedinAdapter } from '../infra/external/likedin.adapter';
 import { AxiosAdapter } from '../infra/external/axios.adapter';
-import { Logger } from '../infra/logger/nest.adapter';
+import { Logger } from '../infra/logger/nest.logger';
 import { LoggerPort } from '../../ports/logger.port';
 import { NoSQLPort } from 'src/ports/nosql.port';
 import { MongoDB } from '../infra/database/mongo.adapter';
@@ -27,7 +27,7 @@ export class AppController {
     this.db = new MongoDB(
       process.env.MONGO_URL,
       'portfolio',
-      'profile',
+      'profiles',
       ProfileSchema,
     );
   }
@@ -35,11 +35,8 @@ export class AppController {
   @Get()
   async getLikedinProfile(@Req() request: Request): Promise<IProfile> {
     this.logger.debug(request, 'getLikedinProfile');
-    return await this.linkedinAdapter.getLikedinProfile(false);
-  }
-
-  @Get('/index')
-  async index() {
-    return { Message: 'Hello World' };
+    // return await this.linkedinAdapter.getLikedinProfile(false);
+    const profile = this.db.all({});
+    return profile;
   }
 }

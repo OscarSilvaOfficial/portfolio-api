@@ -1,7 +1,10 @@
 import { connect, model, Schema } from 'mongoose';
+import { LoggerPort } from 'src/ports/logger.port';
 import { NoSQLPort } from 'src/ports/nosql.port';
+import { Logger } from '../logger/nest.logger';
 
 class MongoDB implements NoSQLPort {
+  private logger: LoggerPort;
   private schema: Schema;
   private dbConnectionString: string;
   private dbName: string;
@@ -16,12 +19,19 @@ class MongoDB implements NoSQLPort {
     this.dbConnectionString = dbConnectionString;
     this.dbName = dbName;
     this.schema = schema;
+    this.logger = new Logger();
     this.collection = model(collectionName, this.schema);
     this.createConnection();
   }
 
   private async createConnection() {
-    await connect(`${this.dbConnectionString}/${this.dbName}`);
+    await connect(`${this.dbConnectionString}/${this.dbName}`)
+      .then(() => {
+        this.logger.generalInfo('Connection success', 'MongoConnected');
+      })
+      .catch((err) => {
+        this.logger.generalError('Mongo error', 'MongoConnectionError', err);
+      });
   }
 
   changeSchema(schema: Schema) {
@@ -32,7 +42,7 @@ class MongoDB implements NoSQLPort {
     this.collection = model(collectionName, this.schema);
   }
 
-  all(filter: any = {}) {
+  all(filter = {}) {
     return this.collection.find(filter);
   }
 

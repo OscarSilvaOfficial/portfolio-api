@@ -1,4 +1,4 @@
-{
+[{
   "public_identifier": "dasilvaoscar",
   "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220204%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220204T174243Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=74204cfa93d8d149ab3a2a09dd44cf8d0b42b097b57818840646dfae3169bb7f",
   "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220204%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220204T174243Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=94e644bb1e0f4831a1d446934c1c811a0d9be3f53b604fabff6ed53dc991950c",
@@ -12,8 +12,7 @@
   "country_full_name": "Brazil",
   "city": "Curitiba",
   "state": "Paraná",
-  "experiences": [
-    {
+  "experiences": [{
       "starts_at": {
         "day": 1,
         "month": 12,
@@ -182,8 +181,7 @@
   "accomplishment_projects": [],
   "accomplishment_test_scores": [],
   "volunteer_work": [],
-  "certifications": [
-    {
+  "certifications": [{
       "starts_at": {
         "day": 1,
         "month": 11,
@@ -268,8 +266,7 @@
     }
   ],
   "connections": 500,
-  "people_also_viewed": [
-    {
+  "people_also_viewed": [{
       "link": "https://br.linkedin.com/in/jaqueline-speck-098b9813a",
       "name": "Jaqueline Speck",
       "summary": "Sales Executive | DHL Global Forwarding",
@@ -391,8 +388,7 @@
     }
   ],
   "recommendations": [],
-  "activities": [
-    {
+  "activities": [{
       "title": "Hoje nem é sexta-feira mas é dia de maldade!! Hoje é dia de dica de ouro e tenho certeza que pode te surpreender!Muito provavelmente você conhece o…",
       "link": "https://www.linkedin.com/signup/cold-join",
       "activity_status": "Oscar da Silva gostou"
@@ -435,4 +431,4 @@
   ],
   "articles": [],
   "groups": []
-}
+}]

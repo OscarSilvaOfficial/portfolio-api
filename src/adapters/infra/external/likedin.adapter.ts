@@ -55,7 +55,7 @@ class LinkedinAdapter implements LinkedinPort {
   private mountProfile(payload: any): Profile {
     return new Profile(
       payload.profile_pic_url,
-      payload.first_name + ' ' + info.last_name,
+      payload.first_name + ' ' + payload.last_name,
       payload.occupation,
       payload.headline,
       payload.summary,

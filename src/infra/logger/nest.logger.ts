@@ -2,7 +2,7 @@ import { Logger as NestLogger } from '@nestjs/common';
 import { Request } from 'express';
 import { LoggerPort } from 'src/ports/logger.port';
 
-class Logger implements LoggerPort {
+class NestLoggerAdapter implements LoggerPort {
   logger: NestLogger;
 
   constructor() {
@@ -38,4 +38,4 @@ class Logger implements LoggerPort {
   }
 }
 
-export { Logger };
+export { NestLoggerAdapter };

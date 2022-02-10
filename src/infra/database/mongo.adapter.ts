@@ -1,7 +1,7 @@
 import { connect, model, Schema } from 'mongoose';
 import { LoggerPort } from 'src/ports/logger.port';
 import { NoSQLPort } from 'src/ports/nosql.port';
-import { Logger } from '../logger/nest.logger';
+import { NestLoggerAdapter } from '../logger/nest.logger';
 
 class MongoDB implements NoSQLPort {
   private logger: LoggerPort;
@@ -15,11 +15,12 @@ class MongoDB implements NoSQLPort {
     dbName: string,
     collectionName: string,
     schema: Schema,
+    logger: LoggerPort,
   ) {
     this.dbConnectionString = dbConnectionString;
     this.dbName = dbName;
     this.schema = schema;
-    this.logger = new Logger();
+    this.logger = logger;
     this.collection = model(collectionName, this.schema);
     this.createConnection();
   }

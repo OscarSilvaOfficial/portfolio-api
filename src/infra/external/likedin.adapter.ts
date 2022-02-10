@@ -1,10 +1,10 @@
-import { LinkedinPort } from '../../../ports/linkedin.port';
+import { LinkedinPort } from '../../ports/linkedin.port';
 import { Injectable } from '@nestjs/common';
 import { Profile } from 'src/core/domain/profile';
 import { IProfile } from 'src/core/domain/interfaces/profile.interface';
 import { RequestPort } from 'src/ports/request.port';
 import { AxiosAdapter } from './axios.adapter';
-import info from '../../../../linkedin.json';
+import info from '../../../linkedin.json';
 
 @Injectable()
 class LinkedinAdapter implements LinkedinPort {

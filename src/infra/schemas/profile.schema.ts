@@ -1,5 +1,5 @@
 import { Schema } from 'mongoose';
-import { IProfile } from '../../../core/domain/interfaces/profile.interface';
+import { IProfile } from '../../core/domain/interfaces/profile.interface';
 
 export const ProfileSchema = new Schema<IProfile>({
   photoUrl: String,

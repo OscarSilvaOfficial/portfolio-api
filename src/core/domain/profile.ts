@@ -12,6 +12,7 @@ class Profile implements IProfile {
   experiences: Array<IExperience>;
   educations: Array<IEducation>;
   certifications: Array<ICertification>;
+  updatedAt: Date;
 
   constructor(
     photoUrl: string,
@@ -22,6 +23,7 @@ class Profile implements IProfile {
     experiences: Array<IExperience>,
     educations: Array<IEducation>,
     certifications: Array<ICertification>,
+    updatedAt: Date,
   ) {
     this.photoUrl = photoUrl;
     this.name = name;
@@ -31,6 +33,7 @@ class Profile implements IProfile {
     this.experiences = experiences;
     this.educations = educations;
     this.certifications = certifications;
+    this.updatedAt = updatedAt;
   }
 }
 

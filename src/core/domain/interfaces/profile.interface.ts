@@ -11,6 +11,7 @@ interface IProfile {
   experiences: Array<IExperience>;
   educations: Array<IEducation>;
   certifications: Array<ICertification>;
+  updatedAt: Date;
 }
 
 export { IProfile };

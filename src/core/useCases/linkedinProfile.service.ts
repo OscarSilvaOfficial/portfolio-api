@@ -1,6 +1,7 @@
 import { LinkedinPort } from 'src/ports/linkedin.port';
 import { LoggerPort } from 'src/ports/logger.port';
 import { LinkedinRepositoryPort } from '../../ports/linkedin.repository.port';
+import { IProfile } from '../domain/interfaces/profile.interface';
 
 class linkedinProfileService {
   repository: LinkedinRepositoryPort;
@@ -33,7 +34,7 @@ class linkedinProfileService {
     return profile;
   }
 
-  async getLikedinProfile(): Promise<any> {
+  async getLikedinProfile(): Promise<IProfile> {
     let profileData: any = await this.repository
       .getLikedinProfile()
       .then((res: any) => res[0]);

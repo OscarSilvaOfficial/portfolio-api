@@ -42,7 +42,7 @@ export class AppController {
   }
 
   @Get()
-  async getLikedinProfile(@Req() request: Request): Promise<any> {
+  async getLikedinProfile(@Req() request: Request): Promise<IProfile> {
     this.logger.debug(request, 'getLikedinProfile');
     return await this.useCase.getLikedinProfile();
   }

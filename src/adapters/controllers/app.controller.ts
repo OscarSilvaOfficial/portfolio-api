@@ -25,7 +25,6 @@ export class AppController {
     readonly requestAdapter: AxiosAdapter,
     readonly logger: NestLoggerAdapter,
   ) {
-    this.linkedinAdapter = new LinkedinAdapter(this.requestAdapter);
     this.db = new MongoDB(
       process.env.MONGO_URL,
       'portfolio',
@@ -33,15 +32,17 @@ export class AppController {
       ProfileSchema,
       logger,
     );
+    this.linkedinAdapter = new LinkedinAdapter(this.requestAdapter);
     this.repository = new LinkedinRepository(this.db);
     this.useCase = new linkedinProfileService(
       this.repository,
       this.linkedinAdapter,
+      logger,
     );
   }
 
   @Get()
-  async getLikedinProfile(@Req() request: Request): Promise<IProfile> {
+  async getLikedinProfile(@Req() request: Request): Promise<any> {
     this.logger.debug(request, 'getLikedinProfile');
     return await this.useCase.getLikedinProfile();
   }

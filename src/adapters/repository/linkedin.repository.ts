@@ -1,5 +1,4 @@
 import { NoSQLPort } from '../../ports/nosql.port';
-import { IProfile } from '../../core/domain/interfaces/profile.interface';
 import { LinkedinRepositoryPort } from '../../ports/linkedin.repository.port';
 
 class LinkedinRepository implements LinkedinRepositoryPort {
@@ -9,8 +8,8 @@ class LinkedinRepository implements LinkedinRepositoryPort {
     this.db = db;
   }
 
-  async getLikedinProfile(filters: any): Promise<IProfile> {
-    return await this.db.all(filters);
+  async getLikedinProfile(): Promise<any> {
+    return await this.db.getLast();
   }
 
   async create(data: any): Promise<any> {

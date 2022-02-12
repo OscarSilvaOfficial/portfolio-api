@@ -1,7 +1,6 @@
 import { connect, model, Schema } from 'mongoose';
 import { LoggerPort } from 'src/ports/logger.port';
 import { NoSQLPort } from 'src/ports/nosql.port';
-import { NestLoggerAdapter } from '../logger/nest.logger';
 
 class MongoDB implements NoSQLPort {
   private logger: LoggerPort;
@@ -43,6 +42,10 @@ class MongoDB implements NoSQLPort {
     this.collection = model(collectionName, this.schema);
   }
 
+  getLast() {
+    return this.collection.find().sort({ _id: -1 }).limit(1);
+  }
+
   all(filter = {}) {
     return this.collection.find(filter);
   }
@@ -52,12 +55,6 @@ class MongoDB implements NoSQLPort {
     const newData = new newDocument(data);
     return newData.save();
   }
-
-  // eslint-disable-next-line @typescript-eslint/no-empty-function
-  update(filter: any, data: any) {}
-
-  // eslint-disable-next-line @typescript-eslint/no-empty-function
-  delete(filter: any) {}
 }
 
 export { MongoDB };

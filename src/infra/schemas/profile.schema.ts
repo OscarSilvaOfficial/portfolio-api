@@ -2,8 +2,9 @@ import { Schema } from 'mongoose';
 import { IProfile } from '../../core/domain/interfaces/profile.interface';
 
 export const ProfileSchema = new Schema<IProfile>({
-  photoUrl: String,
-  name: String,
+  created_at_date: Date,
+  profile_pic_url: String,
+  full_name: String,
   occupation: String,
   headline: String,
   summary: String,

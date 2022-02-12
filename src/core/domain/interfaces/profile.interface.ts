@@ -3,15 +3,15 @@ import { IEducation } from './education.interface';
 import { IExperience } from './experience.interface';
 
 interface IProfile {
-  photoUrl: string;
-  name: string;
+  created_at_date: Date;
+  profile_pic_url: string;
+  full_name: string;
   occupation: string;
   headline: string;
   summary: string;
   experiences: Array<IExperience>;
   educations: Array<IEducation>;
   certifications: Array<ICertification>;
-  updatedAt: Date;
 }
 
 export { IProfile };

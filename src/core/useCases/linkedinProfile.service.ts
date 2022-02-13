@@ -28,7 +28,7 @@ class linkedinProfileService {
       headline: data.headline,
       summary: data.summary,
       experiences: data.experiences,
-      educations: data.educations,
+      educations: data.education,
       certifications: data.certifications,
     };
     return profile;

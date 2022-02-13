@@ -34,25 +34,34 @@ class linkedinProfileService {
     return profile;
   }
 
-  async getLikedinProfile(): Promise<IProfile> {
-    let profileData: any = await this.repository
+  private async updateProfile() {
+    return await this.linkedinAdapter
       .getLikedinProfile()
-      .then((res: any) => res[0]);
-
-    const updateDb =
-      new Date(profileData.created_at_date).getDate() - new Date().getDate();
-
-    if (updateDb == -4) {
-      this.logger.generalInfo('Updating profile', 'LinkedinProfileService');
-      await this.linkedinAdapter.getLikedinProfile().then(async (res: any) => {
+      .then(async (res: any) => {
         const response = { ...res.data, created_at_date: Date.now() };
-        profileData = await this.repository
+        return await this.repository
           .create(this.mountResponse(response))
           .then((res) => res)
           .catch(() => console.log('error'));
       });
+  }
+
+  private async getCurrentProfile() {
+    return await this.repository.getLikedinProfile().then((res: any) => res[0]);
+  }
+
+  async getLikedinProfile(): Promise<IProfile> {
+    let profile: any = await this.getCurrentProfile();
+
+    const needUpdateProfile =
+      new Date(profile.created_at_date).getDate() - new Date().getDate() == -2;
+
+    if (needUpdateProfile) {
+      this.logger.generalInfo('Updating profile', 'LinkedinProfileService');
+      profile = await this.updateProfile();
     }
-    return profileData;
+
+    return profile;
   }
 }
 

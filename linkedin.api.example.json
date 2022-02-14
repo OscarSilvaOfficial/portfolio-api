@@ -8,7 +8,7 @@
   "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220212%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220212T183424Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=db3d06248aca94e25f2138b2f4953f0bd0891ae9abb4b5a29c7dea68c95097d7",
   "full_name": "Oscar da Silva",
   "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
-  "headline": "Senior Software Engineer @South System",
+  "headline": "BLA",
   "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
   "experiences": [
     {
@@ -231,7 +231,7 @@
   "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220212%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220212T183424Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=db3d06248aca94e25f2138b2f4953f0bd0891ae9abb4b5a29c7dea68c95097d7",
   "full_name": "Oscar da Silva",
   "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
-  "headline": "Senior Software Engineer @South System",
+  "headline": "trhe",
   "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
   "experiences": [
     {
@@ -581,6 +581,5058 @@
     }
   ],
   "educations": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6208a15ee044e8c920b67f46"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T06:12:46.423Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T061246Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c3e8b311c51bdf608a2ce0343698c90891cf5c2151e8a78fd6a92d6201c01c0e",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6208a15ee044e8c920b67f48"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T06:12:46.559Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T061246Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c3e8b311c51bdf608a2ce0343698c90891cf5c2151e8a78fd6a92d6201c01c0e",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6208a17dda1551253e487e55"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T06:13:17.274Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T061317Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a99f5a3e9bb666e6398e18826d71fd9cfde0b05d947443f41cb1d03b93f779a5",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6208a17dda1551253e487e57"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T06:13:17.533Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T061317Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a99f5a3e9bb666e6398e18826d71fd9cfde0b05d947443f41cb1d03b93f779a5",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6208a1b3e9aacb457f009a2a"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T06:14:11.361Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T061411Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f2f56152c951d32ab904fd4ec6bfc1c995eaa0d8e36a18942246f318d5c6ed69",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Full Stack Development Design, Engeneering & Deployment",
+      "degree_name": "MBA",
+      "school": "FIAP",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/fiap/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGUHRJ26bFDw/company-logo_100_100/0/1519856619408?e=1652313600&v=beta&t=r_3hHrrWr0E3JnHAwckgvqHc6Hpi79Bxd960B9Jv24A"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "field_of_study": "8.5",
+      "degree_name": "Análise e Desenvolvimento de Sistemas",
+      "school": "UNINTER Centro Universitário Internacional",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/grupo-uninter/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFOPNY-XGjeRQ/company-logo_100_100/0/1621025576528?e=1652313600&v=beta&t=WCuCwfvi0Jf60t9j5JHaD7F-X1ThiNqivTX1kpzZI2M"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6208a1b3e9aacb457f009a2c"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T06:14:11.573Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T061411Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f2f56152c951d32ab904fd4ec6bfc1c995eaa0d8e36a18942246f318d5c6ed69",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Full Stack Development Design, Engeneering & Deployment",
+      "degree_name": "MBA",
+      "school": "FIAP",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/fiap/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGUHRJ26bFDw/company-logo_100_100/0/1519856619408?e=1652313600&v=beta&t=r_3hHrrWr0E3JnHAwckgvqHc6Hpi79Bxd960B9Jv24A"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "field_of_study": "8.5",
+      "degree_name": "Análise e Desenvolvimento de Sistemas",
+      "school": "UNINTER Centro Universitário Internacional",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/grupo-uninter/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFOPNY-XGjeRQ/company-logo_100_100/0/1621025576528?e=1652313600&v=beta&t=WCuCwfvi0Jf60t9j5JHaD7F-X1ThiNqivTX1kpzZI2M"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6209686a6621b2ba99c9085d"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T20:22:02.698Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T202202Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7346d08b30204368a54c1d1fd590930a672d18a5d4c7f39ad6dea1ed13caa1ff",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Full Stack Development Design, Engeneering & Deployment",
+      "degree_name": "MBA",
+      "school": "FIAP",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/fiap/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGUHRJ26bFDw/company-logo_100_100/0/1519856619408?e=1652313600&v=beta&t=r_3hHrrWr0E3JnHAwckgvqHc6Hpi79Bxd960B9Jv24A"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "field_of_study": "8.5",
+      "degree_name": "Análise e Desenvolvimento de Sistemas",
+      "school": "UNINTER Centro Universitário Internacional",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/grupo-uninter/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFOPNY-XGjeRQ/company-logo_100_100/0/1621025576528?e=1652313600&v=beta&t=WCuCwfvi0Jf60t9j5JHaD7F-X1ThiNqivTX1kpzZI2M"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6209686b6621b2ba99c9085f"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T20:22:03.007Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T202202Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7346d08b30204368a54c1d1fd590930a672d18a5d4c7f39ad6dea1ed13caa1ff",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Full Stack Development Design, Engeneering & Deployment",
+      "degree_name": "MBA",
+      "school": "FIAP",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/fiap/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGUHRJ26bFDw/company-logo_100_100/0/1519856619408?e=1652313600&v=beta&t=r_3hHrrWr0E3JnHAwckgvqHc6Hpi79Bxd960B9Jv24A"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "field_of_study": "8.5",
+      "degree_name": "Análise e Desenvolvimento de Sistemas",
+      "school": "UNINTER Centro Universitário Internacional",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/grupo-uninter/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFOPNY-XGjeRQ/company-logo_100_100/0/1621025576528?e=1652313600&v=beta&t=WCuCwfvi0Jf60t9j5JHaD7F-X1ThiNqivTX1kpzZI2M"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62096894c949e6b9bb17750d"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T20:22:44.850Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T202244Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d931ba83f85f2f0f007bcd0d8e09e6500fcc19957d4813629c9aa785e6395c37",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "blabla",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Full Stack Development Design, Engeneering & Deployment",
+      "degree_name": "MBA",
+      "school": "FIAP",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/fiap/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGUHRJ26bFDw/company-logo_100_100/0/1519856619408?e=1652313600&v=beta&t=r_3hHrrWr0E3JnHAwckgvqHc6Hpi79Bxd960B9Jv24A"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "field_of_study": "8.5",
+      "degree_name": "Análise e Desenvolvimento de Sistemas",
+      "school": "UNINTER Centro Universitário Internacional",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/grupo-uninter/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFOPNY-XGjeRQ/company-logo_100_100/0/1621025576528?e=1652313600&v=beta&t=WCuCwfvi0Jf60t9j5JHaD7F-X1ThiNqivTX1kpzZI2M"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62096895c949e6b9bb17750f"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T20:22:45.575Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T202244Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d931ba83f85f2f0f007bcd0d8e09e6500fcc19957d4813629c9aa785e6395c37",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Full Stack Development Design, Engeneering & Deployment",
+      "degree_name": "MBA",
+      "school": "FIAP",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/fiap/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGUHRJ26bFDw/company-logo_100_100/0/1519856619408?e=1652313600&v=beta&t=r_3hHrrWr0E3JnHAwckgvqHc6Hpi79Bxd960B9Jv24A"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "field_of_study": "Análise e Desenvolvimento de Sistemas",
+      "degree_name": "Técnologo",
+      "school": "UNINTER Centro Universitário Internacional",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/grupo-uninter/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFOPNY-XGjeRQ/company-logo_100_100/0/1621025576528?e=1652313600&v=beta&t=WCuCwfvi0Jf60t9j5JHaD7F-X1ThiNqivTX1kpzZI2M"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62096f9d0cfed9318cff9141"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T20:52:45.885Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T205245Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4147c4105f4c360e53a8bfb0d36238f7568406fb041f61a1be0599cd38498eef",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Full Stack Development Design, Engeneering & Deployment",
+      "degree_name": "MBA",
+      "school": "FIAP",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/fiap/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGUHRJ26bFDw/company-logo_100_100/0/1519856619408?e=1652313600&v=beta&t=r_3hHrrWr0E3JnHAwckgvqHc6Hpi79Bxd960B9Jv24A"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "field_of_study": "8.5",
+      "degree_name": "Análise e Desenvolvimento de Sistemas",
+      "school": "UNINTER Centro Universitário Internacional",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/grupo-uninter/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFOPNY-XGjeRQ/company-logo_100_100/0/1621025576528?e=1652313600&v=beta&t=WCuCwfvi0Jf60t9j5JHaD7F-X1ThiNqivTX1kpzZI2M"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62096f9e0cfed9318cff9143"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T20:52:46.092Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T205245Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4147c4105f4c360e53a8bfb0d36238f7568406fb041f61a1be0599cd38498eef",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Full Stack Development Design, Engeneering & Deployment",
+      "degree_name": "MBA",
+      "school": "FIAP",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/fiap/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGUHRJ26bFDw/company-logo_100_100/0/1519856619408?e=1652313600&v=beta&t=r_3hHrrWr0E3JnHAwckgvqHc6Hpi79Bxd960B9Jv24A"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "field_of_study": "8.5",
+      "degree_name": "Análise e Desenvolvimento de Sistemas",
+      "school": "UNINTER Centro Universitário Internacional",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/grupo-uninter/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFOPNY-XGjeRQ/company-logo_100_100/0/1621025576528?e=1652313600&v=beta&t=WCuCwfvi0Jf60t9j5JHaD7F-X1ThiNqivTX1kpzZI2M"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62097027c5992e0d7da3ae6a"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T20:55:03.347Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T205502Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8a663d72dd885e24931f677e6f3a5edabc3a5b4fa82e5d06ee55ccc3f665f78f",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Full Stack Development Design, Engeneering & Deployment",
+      "degree_name": "MBA",
+      "school": "FIAP",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/fiap/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGUHRJ26bFDw/company-logo_100_100/0/1519856619408?e=1652313600&v=beta&t=r_3hHrrWr0E3JnHAwckgvqHc6Hpi79Bxd960B9Jv24A"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "field_of_study": "8.5",
+      "degree_name": "Análise e Desenvolvimento de Sistemas",
+      "school": "UNINTER Centro Universitário Internacional",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/grupo-uninter/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFOPNY-XGjeRQ/company-logo_100_100/0/1621025576528?e=1652313600&v=beta&t=WCuCwfvi0Jf60t9j5JHaD7F-X1ThiNqivTX1kpzZI2M"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62097027c5992e0d7da3ae6c"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T20:55:03.773Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T205503Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=68a8599f96d557419174abbe7260e2479e9c530f3e88bb02364ce3c23e5acff9",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Full Stack Development Design, Engeneering & Deployment",
+      "degree_name": "MBA",
+      "school": "FIAP",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/fiap/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGUHRJ26bFDw/company-logo_100_100/0/1519856619408?e=1652313600&v=beta&t=r_3hHrrWr0E3JnHAwckgvqHc6Hpi79Bxd960B9Jv24A"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "field_of_study": "8.5",
+      "degree_name": "Análise e Desenvolvimento de Sistemas",
+      "school": "UNINTER Centro Universitário Internacional",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/grupo-uninter/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFOPNY-XGjeRQ/company-logo_100_100/0/1621025576528?e=1652313600&v=beta&t=WCuCwfvi0Jf60t9j5JHaD7F-X1ThiNqivTX1kpzZI2M"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6209708a912b6a5ea22825fa"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T20:56:42.890Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T205642Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6fdebade02537a562e7be90e3012dca11b8ae431391033a5622f8e0fd0ddc74d",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Full Stack Development Design, Engeneering & Deployment",
+      "degree_name": "MBA",
+      "school": "FIAP",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/fiap/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGUHRJ26bFDw/company-logo_100_100/0/1519856619408?e=1652313600&v=beta&t=r_3hHrrWr0E3JnHAwckgvqHc6Hpi79Bxd960B9Jv24A"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "field_of_study": "8.5",
+      "degree_name": "Análise e Desenvolvimento de Sistemas",
+      "school": "UNINTER Centro Universitário Internacional",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/grupo-uninter/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFOPNY-XGjeRQ/company-logo_100_100/0/1621025576528?e=1652313600&v=beta&t=WCuCwfvi0Jf60t9j5JHaD7F-X1ThiNqivTX1kpzZI2M"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6209708b912b6a5ea22825fc"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T20:56:43.212Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T205642Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6fdebade02537a562e7be90e3012dca11b8ae431391033a5622f8e0fd0ddc74d",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Full Stack Development Design, Engeneering & Deployment",
+      "degree_name": "MBA",
+      "school": "FIAP",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/fiap/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGUHRJ26bFDw/company-logo_100_100/0/1519856619408?e=1652313600&v=beta&t=r_3hHrrWr0E3JnHAwckgvqHc6Hpi79Bxd960B9Jv24A"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "field_of_study": "8.5",
+      "degree_name": "Análise e Desenvolvimento de Sistemas",
+      "school": "UNINTER Centro Universitário Internacional",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/grupo-uninter/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFOPNY-XGjeRQ/company-logo_100_100/0/1621025576528?e=1652313600&v=beta&t=WCuCwfvi0Jf60t9j5JHaD7F-X1ThiNqivTX1kpzZI2M"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620970c083ec92a0ec229368"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T20:57:36.024Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T205735Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=80a351d44d0f6bfb8ae06dadd71fa2e1a73428a816336a44b994b73fa3a2101a",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Full Stack Development Design, Engeneering & Deployment",
+      "degree_name": "MBA",
+      "school": "FIAP",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/fiap/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGUHRJ26bFDw/company-logo_100_100/0/1519856619408?e=1652313600&v=beta&t=r_3hHrrWr0E3JnHAwckgvqHc6Hpi79Bxd960B9Jv24A"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "field_of_study": "8.5",
+      "degree_name": "Análise e Desenvolvimento de Sistemas",
+      "school": "UNINTER Centro Universitário Internacional",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/grupo-uninter/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFOPNY-XGjeRQ/company-logo_100_100/0/1621025576528?e=1652313600&v=beta&t=WCuCwfvi0Jf60t9j5JHaD7F-X1ThiNqivTX1kpzZI2M"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620970c083ec92a0ec22936a"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T20:57:36.271Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T205736Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5e828e7c7779eba1cbba05cd7123affcb3e1c772361ce92e21cbebd1fa556899",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Full Stack Development Design, Engeneering & Deployment",
+      "degree_name": "MBA",
+      "school": "FIAP",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/fiap/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGUHRJ26bFDw/company-logo_100_100/0/1519856619408?e=1652313600&v=beta&t=r_3hHrrWr0E3JnHAwckgvqHc6Hpi79Bxd960B9Jv24A"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "field_of_study": "8.5",
+      "degree_name": "Análise e Desenvolvimento de Sistemas",
+      "school": "UNINTER Centro Universitário Internacional",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/grupo-uninter/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFOPNY-XGjeRQ/company-logo_100_100/0/1621025576528?e=1652313600&v=beta&t=WCuCwfvi0Jf60t9j5JHaD7F-X1ThiNqivTX1kpzZI2M"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620972d9a738998b0b3b30bd"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T21:06:33.411Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T210632Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a1fa10dab2855271985dec66d5b015a2c10416dc0376d2f527130c2037855a84",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Full Stack Development Design, Engeneering & Deployment",
+      "degree_name": "MBA",
+      "school": "FIAP",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/fiap/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGUHRJ26bFDw/company-logo_100_100/0/1519856619408?e=1652313600&v=beta&t=r_3hHrrWr0E3JnHAwckgvqHc6Hpi79Bxd960B9Jv24A"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "field_of_study": "8.5",
+      "degree_name": "Análise e Desenvolvimento de Sistemas",
+      "school": "UNINTER Centro Universitário Internacional",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/grupo-uninter/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFOPNY-XGjeRQ/company-logo_100_100/0/1621025576528?e=1652313600&v=beta&t=WCuCwfvi0Jf60t9j5JHaD7F-X1ThiNqivTX1kpzZI2M"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "React",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-3A3MQ0ET",
+      "name": "JavaScript",
+      "license_number": "UC-3A3MQ0ET",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2019
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-UC-PUARV19A",
+      "name": "Python - Django",
+      "license_number": "UC-PUARV19A",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": "http://ude.my/UC-GJOMYFKN",
+      "name": "Banco de Dados MySql",
+      "license_number": "UC-GJOMYFKN",
+      "display_source": "ude.my",
+      "authority": "Udemy"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "ends_at": null,
+      "url": null,
+      "name": "HTML",
+      "license_number": "2466BFE0-4D50-4AC3-9FFE-BE6C440C8BF7",
+      "display_source": null,
+      "authority": "Fundação Bradesco"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "Framework Flask",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "url": null,
+      "name": "JavaScript Orientado a Objeto",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Alura Cursos Online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620972d9a738998b0b3b30bf"
+  },
+  "created_at_date": {
+    "$date": "2022-02-13T21:06:33.899Z"
+  },
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/dasilvaoscar/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20220213%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20220213T210633Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=361894878f88892c7ad39ad8c3f0a2e0b6bec63bf636e67214caf0e01f881815",
+  "full_name": "Oscar da Silva",
+  "occupation": "Senior FullStack Developer at SOUTH SYSTEM",
+  "headline": "Senior Software Engineer @South System",
+  "summary": "Sou apaixonado por programação e arquitetura de software.Já experienciei criações de sistemas do zero, utilizando de monólitos, criação de novos eco sistemas de microsserviços, refatorações de sistemas e migração de legados, tanto no front quanto no back.Atualmente estou em um projeto para dar manutenção em um core bancário, realizar a migração de tecnologia e implementar uma arquitetura ao mesmo.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "SOUTH SYSTEM",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/south-system",
+      "title": "Senior FullStack Developer",
+      "description": "Hoje sou responsável por implementar novas funcionalidades e concertar bugs no core bancário da Atar",
+      "location": "Rio Grande do Sul, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQErlJA-5uR95g/company-logo_100_100/0/1625158709282?e=1652313600&v=beta&t=ZIBXHG9sr6YZiwrgAw7JGDthsLgtFseebwBkccgvZz4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "company": "QuiteJá",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/quiteja",
+      "title": "FullStack Developer",
+      "description": "Fui um dos responsáveis por criar a nova landing feita em HTML, CSS, JavaScript, Gulp e WebPack. \n\nE também o responsável pela refatoração da aplicação de autenticação feita na época em Angular JS e Flask json api. A mesma foi feita utilizando VueJS para o front e o back utilizando flask com restful api. Foi implementando também um sistema de logs.\n\nAlém de concertar bugs nos diversos microsserviços existentes",
+      "location": "Curitiba, Paraná, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhfEjTAN9IoA/company-logo_100_100/0/1638361510228?e=1652313600&v=beta&t=Z38a__iaOm2wdUW_IbDniISK99sfXTk23g9ZSmSfN7Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "RHBrasil Recursos Humanos",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/gruporhbrasil",
+      "title": "FullStack Developer",
+      "description": null,
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEM2NX9SC0-HQ/company-logo_100_100/0/1643736481140?e=1652313600&v=beta&t=1WB3XcPnPlOumTaxtboF2PUTzMdnWIH9gtLtczPYkbk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      },
+      "company": "Remoto.Club",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/remoto-club",
+      "title": "FullStack Developer",
+      "description": "Ajudei voluntariamente o fundador da Remoto.Club Cleiton a dar manutenção em algumas funcionalidades da aplicação feita com Java utilizando SpringBoot para o  back e NuxtJS para o front",
+      "location": "Joinville, Santa Catarina, Brasil",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi26sKhGGYog/company-logo_100_100/0/1598889774099?e=1652313600&v=beta&t=of-GBpq05vixvlC4qTkD3WiOq8U5kVNQQ-0JIfp7qrs"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Assistente de TI & Python FullStack Developer",
+      "description": "Trabalhei na área de TI, fazendo suporte ao usuário. \n\nAperfeiçoei a intranet incluindo relatórios de licenças internas e inventários, disparo de e-mails para alerta de contratos sendo finalizados e etc. Fiz também constantes melhorias de layout.",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Estagiário de Infra | Desenvolvimento",
+      "description": "Foquei esse período em aprender sobre infraestrutura de redes, administração de servidores e continuei a criação da intranet",
+      "location": "itapoa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2018
+      },
+      "company": "\n          CLIF - Centro Logístico Integrado FastCargo S.A\n",
+      "company_linkedin_profile_url": "https://br.linkedin.com/company/oclif",
+      "title": "Menor Aprendiz",
+      "description": "Trabalhei principalmente na área de TI, fazendo suporte ao usuário, e criando uma intranet inicialmente com PHP e refatorado para Python e Django",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH_v3QZf9R7xA/company-logo_100_100/0/1606319102874?e=1652313600&v=beta&t=NmGVr8xxsKfdo3j9pGbwxPytK_dJ3naN15s6pgfC-NA"
+    }
+  ],
+  "educations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2022
+      },
+      "field_of_study": "Full Stack Development Design, Engeneering & Deployment",
+      "degree_name": "MBA",
+      "school": "FIAP",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/fiap/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGUHRJ26bFDw/company-logo_100_100/0/1519856619408?e=1652313600&v=beta&t=r_3hHrrWr0E3JnHAwckgvqHc6Hpi79Bxd960B9Jv24A"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "field_of_study": "Análise e Desenvolvimento de Sistemas",
+      "degree_name": "Técnologo",
+      "school": "UNINTER Centro Universitário Internacional",
+      "school_linkedin_profile_url": "https://br.linkedin.com/school/grupo-uninter/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFOPNY-XGjeRQ/company-logo_100_100/0/1621025576528?e=1652313600&v=beta&t=WCuCwfvi0Jf60t9j5JHaD7F-X1ThiNqivTX1kpzZI2M"
+    }
+  ],
   "certifications": [
     {
       "starts_at": {

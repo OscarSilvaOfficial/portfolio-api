@@ -1,4 +1,4 @@
-import { IProfile } from 'src/core/domain/interfaces/profile.interface';
+import { IProfile } from '@/core/domain/interfaces/profile.interface';
 
 export interface LinkedinRepositoryPort {
   getLikedinProfile(...params: any): Promise<IProfile>;

@@ -1,6 +1,6 @@
 import { Logger as NestLogger } from '@nestjs/common';
 import { Request } from 'express';
-import { LoggerPort } from 'src/ports/logger.port';
+import { LoggerPort } from '@/ports/logger.port';
 
 class NestLoggerAdapter implements LoggerPort {
   logger: NestLogger;

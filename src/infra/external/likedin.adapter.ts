@@ -1,7 +1,7 @@
-import { LinkedinPort } from '../../ports/linkedin.port';
+import { LinkedinPort } from '@/ports/linkedin.port';
 import { Injectable } from '@nestjs/common';
-import { IProfile } from 'src/core/domain/interfaces/profile.interface';
-import { RequestPort } from 'src/ports/request.port';
+import { IProfile } from '@/core/domain/interfaces/profile.interface';
+import { RequestPort } from '@/ports/request.port';
 
 @Injectable()
 class LinkedinAdapter implements LinkedinPort {

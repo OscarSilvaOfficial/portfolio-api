@@ -1,6 +1,6 @@
-import { NoSQLPort } from '../../ports/nosql.port';
+import { NoSQLPort } from '@/ports/nosql.port';
 import { LinkedinRepositoryPort } from '../../ports/linkedin.repository.port';
-import { IProfile } from 'src/core/domain/interfaces/profile.interface';
+import { IProfile } from '@/core/domain/interfaces/profile.interface';
 
 class LinkedinRepository implements LinkedinRepositoryPort {
   db: NoSQLPort;

@@ -1,8 +1,8 @@
 import { connect, model, Schema } from 'mongoose';
-import { LoggerPort } from 'src/ports/logger.port';
-import { NoSQLPort } from 'src/ports/nosql.port';
+import { LoggerPort } from '@/ports/logger.port';
+import { NoSQLPort } from '@/ports/nosql.port';
 
-class MongoDB implements NoSQLPort {
+export class MongoAdapter implements NoSQLPort {
   private logger: LoggerPort;
   private schema: Schema;
   private dbConnectionString: string;
@@ -56,5 +56,3 @@ class MongoDB implements NoSQLPort {
     return newData.save();
   }
 }
-
-export { MongoDB };

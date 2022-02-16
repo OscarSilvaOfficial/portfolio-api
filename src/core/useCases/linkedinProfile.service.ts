@@ -53,7 +53,8 @@ class linkedinProfileService {
   async getLikedinProfile(): Promise<IProfile> {
     let profile: any = await this.getCurrentProfile();
 
-    const needUpdateProfile = new Date(profile.created_at_date).getDate() - new Date().getDate() == -2;
+    const needUpdateProfile =
+      new Date(profile.created_at_date).getDate() - new Date().getDate() == -7;
 
     if (needUpdateProfile) {
       this.logger.generalInfo('Updating profile', 'LinkedinProfileService');

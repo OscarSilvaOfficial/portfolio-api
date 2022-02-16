@@ -2,6 +2,7 @@ import { LoggerPort } from '@/ports/logger.port';
 import { LinkedinPort } from '@/ports/linkedin.port';
 import { IProfile } from '@/core/domain/interfaces/profile.interface';
 import { LinkedinRepositoryPort } from '@/ports/linkedin.repository.port';
+import { Profile } from '../domain/profile';
 
 class linkedinProfileService {
   repository: LinkedinRepositoryPort;
@@ -50,11 +51,13 @@ class linkedinProfileService {
     return await this.repository.getLikedinProfile().then((res: any) => res[0]);
   }
 
+  private needUpdateProfileData(lastProfileUpdate: Profile): boolean {
+    return new Date(lastProfileUpdate.created_at_date).getDate() - new Date().getDate() == -7
+  }
+
   async getLikedinProfile(): Promise<IProfile> {
     let profile: any = await this.getCurrentProfile();
-
-    const needUpdateProfile =
-      new Date(profile.created_at_date).getDate() - new Date().getDate() == -7;
+    const needUpdateProfile = this.needUpdateProfileData(profile)
 
     if (needUpdateProfile) {
       this.logger.generalInfo('Updating profile', 'LinkedinProfileService');

@@ -14,26 +14,16 @@ class Profile implements IProfile {
   educations: Array<IEducation>;
   certifications: Array<ICertification>;
 
-  constructor(
-    created_at_date: Date,
-    profile_pic_url: string,
-    full_name: string,
-    occupation: string,
-    headline: string,
-    summary: string,
-    experiences: Array<IExperience>,
-    educations: Array<IEducation>,
-    certifications: Array<ICertification>,
-  ) {
-    this.profile_pic_url = profile_pic_url;
-    this.created_at_date = created_at_date;
-    this.full_name = full_name;
-    this.occupation = occupation;
-    this.headline = headline;
-    this.summary = summary;
-    this.experiences = experiences;
-    this.educations = educations;
-    this.certifications = certifications;
+  constructor(profile: IProfile) {
+    this.profile_pic_url = profile.profile_pic_url;
+    this.created_at_date = profile.created_at_date;
+    this.full_name = profile.full_name;
+    this.occupation = profile.occupation;
+    this.headline = profile.headline;
+    this.summary = profile.summary;
+    this.experiences = profile.experiences;
+    this.educations = profile.educations;
+    this.certifications = profile.certifications;
   }
 }
 

@@ -21,8 +21,8 @@ class linkedinProfileService {
 
   private mountResponse(data: any) {
     data = data._doc ? data._doc : data;
-    const profile = {
-      created_at_date: Date.now(),
+    const profile = new Profile({
+      created_at_date: new Date(),
       profile_pic_url: data.profile_pic_url,
       full_name: data.full_name,
       occupation: data.occupation,
@@ -31,7 +31,7 @@ class linkedinProfileService {
       experiences: data.experiences,
       educations: data.education,
       certifications: data.certifications,
-    };
+    });
     return profile;
   }
 

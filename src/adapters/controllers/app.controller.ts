@@ -25,13 +25,7 @@ export class AppController {
     readonly requestAdapter: AxiosAdapter,
     readonly logger: NestLoggerAdapter,
   ) {
-    this.db = new MongoAdapter(
-      process.env.MONGO_URL,
-      'portfolio',
-      'profiles',
-      ProfileSchema,
-      logger,
-    );
+    this.db = MongoAdapter.factory(logger);
     this.linkedinAdapter = new LinkedinAdapter(this.requestAdapter);
     this.repository = new LinkedinRepository(this.db);
     this.useCase = new linkedinProfileService(

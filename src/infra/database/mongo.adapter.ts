@@ -1,6 +1,7 @@
 import { connect, model, Schema } from 'mongoose';
 import { LoggerPort } from '@/ports/logger.port';
 import { NoSQLPort } from '@/ports/nosql.port';
+import { ProfileSchema } from '../schemas/profile.schema';
 
 export class MongoAdapter implements NoSQLPort {
   private logger: LoggerPort;
@@ -34,11 +35,11 @@ export class MongoAdapter implements NoSQLPort {
       });
   }
 
-  changeSchema(schema: Schema) {
+  setSchema(schema: Schema) {
     this.schema = schema;
   }
 
-  changeCollection(collectionName: string) {
+  setCollection(collectionName: string) {
     this.collection = model(collectionName, this.schema);
   }
 
@@ -54,5 +55,15 @@ export class MongoAdapter implements NoSQLPort {
     const newDocument = this.collection;
     const newData = new newDocument(data);
     return newData.save();
+  }
+
+  static factory(logger: LoggerPort) {
+    return new MongoAdapter(
+      process.env.MONGO_URL,
+      'portfolio',
+      'profiles',
+      ProfileSchema,
+      logger
+    )
   }
 }

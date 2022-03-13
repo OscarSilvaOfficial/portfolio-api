@@ -53,7 +53,7 @@ class linkedinProfileService {
 
   private needUpdateProfileData(lastProfileUpdate: Profile): boolean {
     const daysToUpdate = new Date(lastProfileUpdate.created_at_date).getDate() - new Date().getDate()
-    this.logger.generalInfo('Time to update', `Faltam ${daysToUpdate.toString()} para atualizar o perfil`);
+    this.logger.generalInfo('Time to update', `Perfil foi atualizado ${daysToUpdate == 0 ? 'hoje' : 'a ' + daysToUpdate.toString() + ' dias'}`);
     return daysToUpdate <= -1
   }
 

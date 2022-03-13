@@ -5,19 +5,12 @@ import { LinkedinRepositoryPort } from '@/ports/linkedin.repository.port';
 import { Profile } from '../domain/profile';
 
 class linkedinProfileService {
-  repository: LinkedinRepositoryPort;
-  linkedinAdapter: LinkedinPort;
-  logger: LoggerPort;
 
   constructor(
-    reporsitory: LinkedinRepositoryPort,
-    linkedinAdapter: LinkedinPort,
-    logger: LoggerPort,
-  ) {
-    this.repository = reporsitory;
-    this.linkedinAdapter = linkedinAdapter;
-    this.logger = logger;
-  }
+    private repository: LinkedinRepositoryPort,
+    private linkedinAdapter: LinkedinPort,
+    private logger: LoggerPort,
+  ){}
 
   private mountResponse(data: any) {
     data = data._doc ? data._doc : data;

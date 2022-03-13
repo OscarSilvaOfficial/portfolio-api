@@ -54,7 +54,7 @@ class linkedinProfileService {
   private needUpdateProfileData(lastProfileUpdate: Profile): boolean {
     const daysToUpdate = new Date(lastProfileUpdate.created_at_date).getDate() - new Date().getDate()
     this.logger.generalInfo('Time to update', `Faltam ${daysToUpdate.toString()} para atualizar o perfil`);
-    return daysToUpdate >= -7
+    return daysToUpdate >= -1
   }
 
   async getLikedinProfile(): Promise<IProfile> {

@@ -3,7 +3,6 @@ import { Request } from 'express';
 import { IProfile } from '@/core/domain/interfaces/profile.interface';
 import { LinkedinPort } from '@/ports/linkedin.port';
 import { NoSQLPort } from '@/ports/nosql.port';
-import { ProfileSchema } from '@/infra/schemas/profile.schema';
 import { ApiTags } from '@nestjs/swagger';
 import { linkedinProfileService } from '@/core/useCases/linkedinProfile.service';
 import { LinkedinRepositoryPort } from '@/ports/linkedin.repository.port';

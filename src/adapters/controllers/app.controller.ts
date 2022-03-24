@@ -10,7 +10,7 @@ import { LinkedinRepository } from '../repository/linkedin.repository';
 import { MongoAdapter } from '@/infra/database/mongo.adapter';
 import { NestLoggerAdapter } from '@/infra/logger/nest.logger';
 import { AxiosAdapter } from '@/infra/external/axios.adapter';
-import { LinkedinAdapter } from '@/infra/external/likedin.adapter'
+import { LinkedinAdapter } from '@/infra/external/likedin.adapter';
 
 @ApiTags('Likedin Profile API')
 @Controller()

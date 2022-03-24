@@ -3,9 +3,7 @@ import * as dotenv from 'dotenv';
 import { SwaggerModule, DocumentBuilder } from '@nestjs/swagger';
 import { AppModule } from './app.module';
 
-
 export class Entrypoint {
-
   constructor(readonly documentBuilder: DocumentBuilder) {}
 
   async documentBuilderFactory() {
@@ -21,13 +19,13 @@ export class Entrypoint {
     const document = SwaggerModule.createDocument(app, config);
     SwaggerModule.setup('docs', app, document);
   }
-  
+
   static async bootstrap() {
     dotenv.config();
     const app = await NestFactory.create(AppModule);
-    const self = new Entrypoint(new DocumentBuilder()); 
+    const self = new Entrypoint(new DocumentBuilder());
     self.configSwegger(app);
     app.enableCors();
-    await app.listen(process.env.PORT || 8000);
+    await app.listen(process.env.PORT || 3000);
   }
 }

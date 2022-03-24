@@ -58,12 +58,13 @@ export class MongoAdapter implements NoSQLPort {
   }
 
   static factory(logger: LoggerPort) {
+    const mongoURL: string = process.env.MONGO_URL || '';
     return new MongoAdapter(
-      process.env.MONGO_URL,
+      mongoURL,
       'portfolio',
       'profiles',
       ProfileSchema,
-      logger
-    )
+      logger,
+    );
   }
 }

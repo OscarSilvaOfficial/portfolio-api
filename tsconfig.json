@@ -1,3 +1,48 @@
+// {
+//   "compilerOptions": {
+//     "module": "commonjs",
+//     "declaration": true,
+//     "removeComments": true,
+//     "emitDecoratorMetadata": true,
+//     "experimentalDecorators": true,
+//     "allowSyntheticDefaultImports": true,
+//     "target": "es2017",
+//     "sourceMap": true,
+//     "outDir": "./dist",
+//     "incremental": true,
+//     "resolveJsonModule": true,
+//     "esModuleInterop": true,
+//     "skipLibCheck": true,
+//     "baseUrl": ".",
+//     "rootDir": ".",
+//     "paths": {
+//       "@/*": ["src/*"]
+//     },
+//   }
+// }
+
+// {
+//   "compilerOptions": {
+//     "module": "commonjs",
+//     "baseUrl": ".",
+//     "declaration": true,
+//     "preserveConstEnums": true,
+//     "esModuleInterop": true,
+//     "strictNullChecks": true,
+//     "experimentalDecorators": true,
+//     "emitDecoratorMetadata": true,
+//     "rootDir": ".",
+//     "sourceMap": true,
+//     "target": "es2017",
+//     "outDir": ".build",
+//     "moduleResolution": "node",
+//     "lib": ["es2015"],
+//     "paths": {
+//       "@/*": ["src/*"]
+//     }
+//   }
+// }
+
 {
   "compilerOptions": {
     "module": "commonjs",
@@ -6,17 +51,14 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "allowSyntheticDefaultImports": true,
-    "target": "es2017",
+    "target": "ES2015",
     "sourceMap": true,
     "outDir": "./dist",
+    "baseUrl": "./",
     "incremental": true,
-    "resolveJsonModule": true,
     "esModuleInterop": true,
-    "skipLibCheck": true,
-    "baseUrl": ".",
-    "rootDir": ".",
     "paths": {
       "@/*": ["src/*"]
-    },
+    }
   }
 }

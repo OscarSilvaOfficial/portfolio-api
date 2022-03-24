@@ -1,0 +1,30 @@
+service: portfolio-api-serverless
+
+useDotenv: true
+
+plugins:
+  - serverless-offline
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+
+  stage: dev
+  region: us-east-1
+  environment:
+    MONGO_URL: mongodb+srv://oscar:oscar@cluster0.xlh9q.gcp.mongodb.net
+    MY_LINKEDIN_URL: https://www.linkedin.com/in/dasilvaoscar
+    NPM_CONFIG_PRODUCTION: false
+    NUBELA_TOKEN: dVZe-2nik-Sz1zTPZkTT-g
+    NUBELA_URL: https://nubela.co/proxycurl/api/v2
+
+functions:
+  main:
+    handler: dist/lambda.handler
+    events:
+      - http:
+          method: any
+          path: /
+      - http:
+          method: any
+          path: /{any+}

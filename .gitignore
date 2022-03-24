@@ -130,3 +130,6 @@ dist
 .pnp.*
 .env
 *-lock.json
+
+.env.dev
+.env.prod

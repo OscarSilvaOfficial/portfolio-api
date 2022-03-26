@@ -11,6 +11,9 @@ provider:
 
   stage: dev
   region: us-east-1
+  
+resources:
+  - ${file(resources/api-gateway-errors.yml)}
 
 functions:
   main:
@@ -19,6 +22,24 @@ functions:
       - http:
           method: any
           path: /
+          cors:
+            origin: '*'
+            headers:
+              - Content-Type
+              - X-Amz-Date
+              - Authorization
+              - X-Api-Key
+              - X-Amz-Security-Token
+            allowCredentials: false
       - http:
           method: any
           path: /{any+}
+          cors:
+            origin: '*'
+            headers:
+              - Content-Type
+              - X-Amz-Date
+              - Authorization
+              - X-Api-Key
+              - X-Amz-Security-Token
+            allowCredentials: false

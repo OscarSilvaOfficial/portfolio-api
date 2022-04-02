@@ -11,7 +11,13 @@ provider:
 
   stage: dev
   region: us-east-1
-  
+  environment:
+    MONGO_URL: mongodb+srv://oscar:oscar@cluster0.xlh9q.gcp.mongodb.net
+    MY_LINKEDIN_URL: https://www.linkedin.com/in/dasilvaoscar
+    NPM_CONFIG_PRODUCTION: false
+    NUBELA_TOKEN: dVZe-2nik-Sz1zTPZkTT-g
+    NUBELA_URL: https://nubela.co/proxycurl/api/v2
+
 resources:
   - ${file(resources/api-gateway-errors.yml)}
 

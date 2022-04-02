@@ -2,6 +2,9 @@ import { NestFactory } from '@nestjs/core';
 import * as dotenv from 'dotenv';
 import { SwaggerModule, DocumentBuilder } from '@nestjs/swagger';
 import { AppModule } from './app.module';
+import { NestLoggerAdapter } from '@/infra/logger/nest.logger';
+
+const logger = new NestLoggerAdapter()
 
 export class Entrypoint {
   constructor(readonly documentBuilder: DocumentBuilder) {}
@@ -26,6 +29,8 @@ export class Entrypoint {
     const self = new Entrypoint(new DocumentBuilder());
     self.configSwegger(app);
     app.enableCors();
-    await app.listen(process.env.PORT || 3000);
+    const PORT = process.env.PORT || 3000;
+    logger.generalInfo('Bootstrap Logger', `Running at port: ${PORT}`);
+    await app.listen(PORT);
   }
 }

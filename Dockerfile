@@ -4,7 +4,7 @@ WORKDIR /usr/src/app
 
 COPY package*.json ./
 
-RUN npm install rimraf ansi-styles supports-color has-flag minimist
+RUN npm install rimraf ansi-styles supports-color has-flag minimist lodash/toArray
 
 RUN npm install --only=development
 

@@ -29,7 +29,7 @@ export class Entrypoint {
     const self = new Entrypoint(new DocumentBuilder());
     self.configSwegger(app);
     app.enableCors();
-    const PORT = process.env.PORT || 3000;
+    const PORT = process.env.PORT || 5000;
     logger.generalInfo('Bootstrap Logger', `Running at port: ${PORT}`);
     await app.listen(PORT);
   }

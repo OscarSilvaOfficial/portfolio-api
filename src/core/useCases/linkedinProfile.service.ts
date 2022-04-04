@@ -5,12 +5,11 @@ import { LinkedinRepositoryPort } from '@/ports/linkedin.repository.port';
 import { Profile } from '../domain/profile';
 
 class linkedinProfileService {
-
   constructor(
     private repository: LinkedinRepositoryPort,
     private linkedinAdapter: LinkedinPort,
     private logger: LoggerPort,
-  ){}
+  ) {}
 
   private mountResponse(data: any) {
     data = data._doc ? data._doc : data;
@@ -45,14 +44,21 @@ class linkedinProfileService {
   }
 
   private needUpdateProfileData(lastProfileUpdate: Profile): boolean {
-    const daysToUpdate = new Date(lastProfileUpdate.created_at_date).getDate() - new Date().getDate()
-    this.logger.generalInfo('Time to update', `Perfil foi atualizado ${daysToUpdate == 0 ? 'hoje' : 'a ' + daysToUpdate.toString() + ' dias'}`);
-    return daysToUpdate <= -1
+    const daysToUpdate =
+      new Date(lastProfileUpdate.created_at_date).getDate() -
+      new Date().getDate();
+    this.logger.generalInfo(
+      `Perfil foi atualizado ${
+        daysToUpdate == 0 ? 'hoje' : 'a ' + daysToUpdate.toString() + ' dias'
+      }`,
+      'Time to update',
+    );
+    return daysToUpdate <= -1;
   }
 
   async getLikedinProfile(): Promise<IProfile> {
     let profile: any = await this.getCurrentProfile();
-    const needUpdateProfile = this.needUpdateProfileData(profile)
+    const needUpdateProfile = this.needUpdateProfileData(profile);
 
     if (needUpdateProfile) {
       this.logger.generalInfo('Updating profile', 'LinkedinProfileService');

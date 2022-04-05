@@ -30,7 +30,7 @@ export class Entrypoint {
     self.configSwegger(app);
     app.enableCors();
     const PORT = process.env.PORT || 5000;
-    logger.generalInfo('Bootstrap Logger', `Running at port: ${PORT}`);
+    logger.generalInfo(`Running at port: ${PORT}`, 'Bootstrap Logger');
     await app.listen(PORT);
   }
 }

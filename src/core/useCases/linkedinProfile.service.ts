@@ -53,7 +53,7 @@ class linkedinProfileService {
       }`,
       'Time to update',
     );
-    return daysToUpdate <= -1;
+    return daysToUpdate > 0 || daysToUpdate < 0;
   }
 
   async getLikedinProfile(): Promise<IProfile> {

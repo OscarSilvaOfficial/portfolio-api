@@ -28,15 +28,9 @@ class linkedinProfileService {
   }
 
   private async updateProfile() {
-    return await this.linkedinAdapter
-      .getLikedinProfile()
-      .then(async (res: any) => {
-        const response = this.mountResponse(res.data);
-        return await this.repository
-          .create(response)
-          .then((res) => res)
-          .catch(() => console.log('error'));
-      });
+    const linkedinProfile = await this.linkedinAdapter.getLikedinProfile();
+    const linkedinProfileSerialized = this.mountResponse(linkedinProfile);
+    return await this.repository.create(linkedinProfileSerialized);
   }
 
   private async getCurrentProfile() {

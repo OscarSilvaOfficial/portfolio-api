@@ -26,13 +26,12 @@ export class MongoAdapter implements NoSQLPort {
   }
 
   private async createConnection() {
-    await connect(`${this.dbConnectionString}/${this.dbName}`)
-      .then(() => {
-        this.logger.generalInfo('Connection success', 'MongoConnected');
-      })
-      .catch((err) => {
-        this.logger.generalError('Mongo error', 'MongoConnectionError', err);
-      });
+    try {
+      await connect(`${this.dbConnectionString}/${this.dbName}`)
+      this.logger.generalInfo('Connection success', 'MongoConnected');
+    } catch (err) {
+      this.logger.generalError('Mongo error', 'MongoConnectionError', err);
+    }
   }
 
   setSchema(schema: Schema) {

@@ -14,44 +14,43 @@ class Profile implements IProfile {
     private _experiences: Array<IExperience>,
     private _educations: Array<IEducation>,
     private _certifications: Array<ICertification>,
-  ){}
+  ) {}
 
   public get created_at_date(): Date {
-    return this._created_at_date
-  };
+    return this._created_at_date;
+  }
 
   public get profile_pic_url(): string {
-    return this._profile_pic_url
-  };
+    return this._profile_pic_url;
+  }
 
   public get full_name(): string {
-    return this._full_name
-  };
+    return this._full_name;
+  }
 
   public get occupation(): string {
-    return this._occupation
-  };
+    return this._occupation;
+  }
 
   public get headline(): string {
-    return this._headline
-  };
+    return this._headline;
+  }
 
   public get summary(): string {
-    return this._summary
-  };
+    return this._summary;
+  }
 
   public get experiences(): Array<IExperience> {
-    return this._experiences
-  };
+    return this._experiences;
+  }
 
   public get educations(): Array<IEducation> {
-    return this._educations
-  };
+    return this._educations;
+  }
 
   public get certifications(): Array<ICertification> {
-    return this._certifications
-  };
-
+    return this._certifications;
+  }
 }
 
 export { Profile };

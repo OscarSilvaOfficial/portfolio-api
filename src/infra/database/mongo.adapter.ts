@@ -27,7 +27,7 @@ export class MongoAdapter implements NoSQLPort {
 
   private async createConnection() {
     try {
-      await connect(`${this.dbConnectionString}/${this.dbName}`)
+      await connect(`${this.dbConnectionString}/${this.dbName}`);
       this.logger.generalInfo('Connection success', 'MongoConnected');
     } catch (err) {
       this.logger.generalError('Mongo error', 'MongoConnectionError', err);

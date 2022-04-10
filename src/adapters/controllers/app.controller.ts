@@ -8,7 +8,7 @@ import { linkedinProfileService } from '@/core/useCases/linkedinProfile.service'
 import { LinkedinRepositoryPort } from '@/ports/linkedin.repository.port';
 import { LinkedinRepository } from '../repository/linkedin.repository';
 import { MongoAdapter } from '@/infra/database/mongo.adapter';
-import { NestLoggerAdapter } from '@/infra/logger/nest.logger';
+import { LoggerAdapter } from '@/adapters/logger/logger.adapter';
 import { AxiosAdapter } from '@/infra/external/axios.adapter';
 import { LinkedinAdapter } from '@/infra/external/likedin.adapter';
 
@@ -22,7 +22,7 @@ export class AppController {
 
   constructor(
     readonly requestAdapter: AxiosAdapter,
-    readonly logger: NestLoggerAdapter,
+    readonly logger: LoggerAdapter,
   ) {
     this.db = MongoAdapter.factory(logger);
     this.linkedinAdapter = new LinkedinAdapter(this.requestAdapter);

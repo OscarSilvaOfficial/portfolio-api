@@ -1,12 +1,11 @@
-import { Logger as NestLogger } from '@nestjs/common';
-import { Request } from 'express';
 import { LoggerPort } from '@/ports/logger.port';
+import { Logger } from '@nestjs/common';
+import { Request } from 'express';
 
-class NestLoggerAdapter implements LoggerPort {
-  logger: NestLogger;
-
+class LoggerAdapter implements LoggerPort {
+  private logger: Logger;
   constructor() {
-    this.logger = new NestLogger();
+    this.logger = new Logger();
   }
 
   public generalInfo(message: string, context: string): void {
@@ -38,4 +37,4 @@ class NestLoggerAdapter implements LoggerPort {
   }
 }
 
-export { NestLoggerAdapter };
+export { LoggerAdapter };

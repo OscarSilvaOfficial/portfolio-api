@@ -1,9 +1,8 @@
 import request from 'supertest';
 import { Test } from '@nestjs/testing';
 import { AppModule } from '../src/main/app.module';
-import { INestApplication } from '@nestjs/common'
+import { INestApplication } from '@nestjs/common';
 import * as dotenv from 'dotenv';
-
 
 describe('AppController (e2e)', () => {
   let app: INestApplication;
@@ -11,7 +10,7 @@ describe('AppController (e2e)', () => {
   beforeAll(async () => {
     dotenv.config();
     const moduleFixture = await Test.createTestingModule({
-      imports: [AppModule]
+      imports: [AppModule],
     }).compile();
 
     app = moduleFixture.createNestApplication();
@@ -19,8 +18,6 @@ describe('AppController (e2e)', () => {
   });
 
   it('/ (GET)', () => {
-    return request(app.getHttpServer())
-      .get('/')
-      .expect(200)
+    return request(app.getHttpServer()).get('/').expect(200);
   });
 });

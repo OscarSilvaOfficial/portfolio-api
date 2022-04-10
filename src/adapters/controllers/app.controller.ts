@@ -9,8 +9,8 @@ import { LinkedinRepositoryPort } from '@/ports/linkedin.repository.port';
 import { LinkedinRepository } from '../repository/linkedin.repository';
 import { MongoAdapter } from '@/infra/database/mongo.adapter';
 import { LoggerAdapter } from '@/adapters/logger/logger.adapter';
-import { AxiosAdapter } from '@/infra/external/axios.adapter';
-import { LinkedinAdapter } from '@/infra/external/likedin.adapter';
+import { AxiosAdapter } from '@/adapters/external/axios.adapter';
+import { LinkedinAdapter } from '@/adapters/external/likedin.adapter';
 
 @ApiTags('Likedin Profile API')
 @Controller()

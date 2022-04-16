@@ -12,7 +12,6 @@ class linkedinProfileService {
   ) {}
 
   private mountEntity(data: any) {
-    data = data._doc ? data._doc : data;
     return new Profile({
       _created_at_date: Date.now(),
       _profile_pic_url: data.profile_pic_url,
@@ -27,13 +26,14 @@ class linkedinProfileService {
   }
 
   private async updateProfile() {
-    const linkedinProfile = await this.linkedinAdapter.getLikedinProfile();
-    const linkedinProfileSerialized = this.mountEntity(linkedinProfile);
-    return await this.repository.create(linkedinProfileSerialized);
+    const linkedinProfileData = await this.linkedinAdapter.getLikedinProfile();
+    const linkedinProfile = this.mountEntity(linkedinProfileData.data);
+    return await this.repository.create(linkedinProfile);
   }
 
   private async getCurrentProfile() {
-    return await this.repository.getLikedinProfile().then((res: any) => res[0]);
+    const profile = await this.repository.getLikedinProfile();
+    return profile;
   }
 
   private needUpdateProfileData(lastProfileUpdate: Profile): boolean {

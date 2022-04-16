@@ -43,7 +43,7 @@ export class MongoAdapter implements NoSQLPort {
   }
 
   getLast() {
-    return this.collection.find().sort({ _id: -1 }).limit(1);
+    return this.collection.findOne().sort({ _id: -1 });
   }
 
   all(filter = {}) {

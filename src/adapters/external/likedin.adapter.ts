@@ -2,6 +2,8 @@ import { LinkedinPort } from '@/ports/linkedin.port';
 import { Injectable } from '@nestjs/common';
 import { IProfile } from '@/core/domain/interfaces/profile.interface';
 import { RequestPort } from '@/ports/request.port';
+import { AxiosResponse } from 'axios';
+import { Profile } from '@/core/domain/profile';
 
 @Injectable()
 class LinkedinAdapter implements LinkedinPort {
@@ -25,7 +27,7 @@ class LinkedinAdapter implements LinkedinPort {
 
   async getLikedinProfile(): Promise<any> {
     const profile = await this.getDataOnLinkedIn();
-    return new Promise((resolve) => resolve(profile));
+    return profile;
   }
 }
 

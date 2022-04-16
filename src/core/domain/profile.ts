@@ -3,53 +3,69 @@ import { IEducation } from './interfaces/education.interface';
 import { IExperience } from './interfaces/experience.interface';
 import { IProfile } from './interfaces/profile.interface';
 
-class Profile implements IProfile {
-  constructor(
-    private _created_at_date: Date,
-    private _profile_pic_url: string,
-    private _full_name: string,
-    private _occupation: string,
-    private _headline: string,
-    private _summary: string,
-    private _experiences: Array<IExperience>,
-    private _educations: Array<IEducation>,
-    private _certifications: Array<ICertification>,
-  ) {}
+interface IProfileData {
+  _created_at_date: Date | number;
+  _profile_pic_url: string;
+  _full_name: string;
+  _occupation: string;
+  _headline: string;
+  _summary: string;
+  _experiences: Array<IExperience>;
+  _educations: Array<IEducation>;
+  _certifications: Array<ICertification>;
+}
 
-  public get created_at_date(): Date {
-    return this._created_at_date;
+class Profile implements IProfile {
+  constructor(private profile: IProfileData) {}
+
+  public get created_at_date(): Date | number {
+    return this.profile._created_at_date;
   }
 
   public get profile_pic_url(): string {
-    return this._profile_pic_url;
+    return this.profile._profile_pic_url;
   }
 
   public get full_name(): string {
-    return this._full_name;
+    return this.profile._full_name;
   }
 
   public get occupation(): string {
-    return this._occupation;
+    return this.profile._occupation;
   }
 
   public get headline(): string {
-    return this._headline;
+    return this.profile._headline;
   }
 
   public get summary(): string {
-    return this._summary;
+    return this.profile._summary;
   }
 
   public get experiences(): Array<IExperience> {
-    return this._experiences;
+    return this.profile._experiences;
   }
 
   public get educations(): Array<IEducation> {
-    return this._educations;
+    return this.profile._educations;
   }
 
   public get certifications(): Array<ICertification> {
-    return this._certifications;
+    return this.profile._certifications;
+  }
+
+  public serialize(): IProfile {
+    return {
+      created_at_date: this.created_at_date,
+      profile_pic_url: this.profile_pic_url,
+      full_name: this.full_name,
+      occupation: this.occupation,
+      headline: this.headline,
+      summary: this.summary,
+      experiences: this.experiences,
+      educations: this.educations,
+      certifications: this.certifications,
+    };
   }
 }
 

@@ -11,25 +11,24 @@ class linkedinProfileService {
     private logger: LoggerPort,
   ) {}
 
-  private mountResponse(data: any) {
+  private mountEntity(data: any) {
     data = data._doc ? data._doc : data;
-    const profile = {
-      created_at_date: Date.now(),
-      profile_pic_url: data.profile_pic_url,
-      full_name: data.full_name,
-      occupation: data.occupation,
-      headline: data.headline,
-      summary: data.summary,
-      experiences: data.experiences,
-      educations: data.education,
-      certifications: data.certifications,
-    };
-    return profile;
+    return new Profile({
+      _created_at_date: Date.now(),
+      _profile_pic_url: data.profile_pic_url,
+      _full_name: data.full_name,
+      _occupation: data.occupation,
+      _headline: data.headline,
+      _summary: data.summary,
+      _experiences: data.experiences,
+      _educations: data.education,
+      _certifications: data.certifications,
+    });
   }
 
   private async updateProfile() {
     const linkedinProfile = await this.linkedinAdapter.getLikedinProfile();
-    const linkedinProfileSerialized = this.mountResponse(linkedinProfile);
+    const linkedinProfileSerialized = this.mountEntity(linkedinProfile);
     return await this.repository.create(linkedinProfileSerialized);
   }
 

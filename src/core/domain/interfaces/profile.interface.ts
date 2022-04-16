@@ -3,7 +3,7 @@ import { IEducation } from './education.interface';
 import { IExperience } from './experience.interface';
 
 interface IProfile {
-  created_at_date: Date;
+  created_at_date: Date | number;
   profile_pic_url: string;
   full_name: string;
   occupation: string;

@@ -1,4 +1,4 @@
-service: portfolio-api-serverless
+service: portfolio-linkedin-service-serverless
 
 useDotenv: true
 

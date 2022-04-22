@@ -131,4 +131,5 @@ dist
 .env
 *-lock.json
 
+# env
 .env*

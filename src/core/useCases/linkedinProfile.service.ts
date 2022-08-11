@@ -52,8 +52,9 @@ class linkedinProfileService {
   async getLikedinProfile(): Promise<IProfile> {
     let profile: any = await this.getCurrentProfile();
     const needUpdateProfile = this.needUpdateProfileData(profile);
+    const updateProfile = false
 
-    if (needUpdateProfile) {
+    if (needUpdateProfile && updateProfile) {
       this.logger.generalInfo('Updating profile', 'LinkedinProfileService');
       profile = await this.updateProfile();
     }
